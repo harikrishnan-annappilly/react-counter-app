@@ -1,6 +1,6 @@
 import React from "react";
 
-const counterContext = React.createContext();
-counterContext.displayName = "CounterContext";
+const CounterContext = React.createContext();
+CounterContext.displayName = "CounterContext";
 
-export default counterContext;
+export default CounterContext;
